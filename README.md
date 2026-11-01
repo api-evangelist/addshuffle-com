@@ -1,4 +1,4 @@
-# addshuffle-com
+# Shuffle
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,140 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-addshuffle-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://addshuffle.com/
+Shuffle is an AI‑powered social media manager that creates, schedules, and publishes posts across multiple platforms, answers customer inquiries, and lets users approve content via text or a web interface. Positioned as a social media manager for AI agents, it helps brands automate their online presence while retaining human oversight, enabling efficient, AI‑driven engagement with audiences.
+
+**Areas:** AI · Social Media · Automation · Marketing · SaaS
+
+## Shuffle on APIs.io
+
+Everything profiled for Shuffle is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/addshuffle-com/](https://apis.io/providers/addshuffle-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (5)
+
+- [Shuffle Credits API](https://apis.io/apis/addshuffle-com/addshuffle-com-credits-api/) — The Credits API from Shuffle — 4 operation(s) for credits.
+- [Shuffle L402 API](https://apis.io/apis/addshuffle-com/addshuffle-com-l402-api/) — The L402 API from Shuffle — 3 operation(s) for l402.
+- [Shuffle Manual Mode API](https://apis.io/apis/addshuffle-com/addshuffle-com-manual-mode-api/) — The Manual Mode API from Shuffle — 5 operation(s) for manual mode.
+- [Shuffle Utilities API](https://apis.io/apis/addshuffle-com/addshuffle-com-utilities-api/) — The Utilities API from Shuffle — 1 operation(s) for utilities.
+- [Shuffle Video Chain API](https://apis.io/apis/addshuffle-com/addshuffle-com-video-chain-api/) — The Video Chain API from Shuffle — 4 operation(s) for video chain.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Addshuffle Com Agentic Access](https://apis.io/agentic-access/addshuffle-com/addshuffle-com-agentic-access/)
+
+#### JSON Schema (5)
+
+The data models the API reads and writes.
+
+- [ChainSettings](https://apis.io/schemas/addshuffle-com/addshuffle-com-chain-settings/)
+- [CreditBalance](https://apis.io/schemas/addshuffle-com/addshuffle-com-credit-balance/)
+- [CreditTransaction](https://apis.io/schemas/addshuffle-com/addshuffle-com-credit-transaction/)
+- [L402Offer](https://apis.io/schemas/addshuffle-com/addshuffle-com-l402-offer/)
+- [Progress](https://apis.io/schemas/addshuffle-com/addshuffle-com-progress/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Addshuffle Com Context](https://apis.io/jsonld/addshuffle-com/addshuffle-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Shuffle API Rules](https://apis.io/rules/addshuffle-com/addshuffle-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Addshuffle Com Authentication](https://apis.io/security/addshuffle-com/addshuffle-com-authentication/)
+- [Addshuffle Com Domain Security](https://apis.io/security/addshuffle-com/addshuffle-com-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Addshuffle Com Scopes](https://apis.io/scopes/addshuffle-com/addshuffle-com-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Addshuffle Com Plans Pricing](https://apis.io/plans/addshuffle-com/addshuffle-com-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Addshuffle Com Rate Limits](https://apis.io/rate-limits/addshuffle-com/addshuffle-com-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.textshuffle.com/)
+- [Pricing](https://www.textshuffle.com/plans)
+- [Support](https://www.textshuffle.com/help)
+- [Terms of service](https://www.textshuffle.com/terms)
+- [Privacy policy](https://www.textshuffle.com/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 49.3** — developing · rubric 0.25.0 · scored 2026-10-31
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 56.3 |
+| Contract governance | 70.9 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 27.9 |
+| Access clarity | 60.0 |
+
+**Agent readiness 53.7** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 31.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/addshuffle-com/](https://apis.io/providers/addshuffle-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Shuffle: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/addshuffle-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
